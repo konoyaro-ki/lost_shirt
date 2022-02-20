@@ -28,7 +28,7 @@ html, body {
 
 .container{
     margin: 0 auto;
-    width: 1300px;
+    width: 1290px;
 }
 
 body {
@@ -315,7 +315,7 @@ ul > li {
 .products__list{
     display: flex;
     flex-wrap: wrap;
-    margin-left: -28px;
+    margin-left: -27px;
 }
 
 .products__item {
